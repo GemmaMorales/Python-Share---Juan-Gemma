@@ -3,7 +3,7 @@ import random
 descrip =["A spooky ","A terrifying ","A nice ","A misterious ","An evil "]
 who =["sorcerer ","extraterrestrial ","man ","monster ", "unicorn "]
 accion=["burned ","decorated ","pulverized ","painted ", "disintegrated ", "disappeared "]
-what=["my car ","my computer ","my sandwidch ","my phone ", "my homework "]
+what=["my car ","my computer ","my sandwidch ","my television ", "my homework "]
 where=["on the street ","in the lake ","in front of the office ","in my house "]
 when=["yesterday. ","this morning. ","last night. ","just now. "]
 
